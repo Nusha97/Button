@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:background="@android:color/holo_purple"
 
-    tools:context="com.example.android.task1.MainActivity">
+    tools:context="com.android.button.MainActivity">
 
 
     <TextView
@@ -28,6 +28,4 @@
         android:layout_marginLeft="8dp"
         android:text="Click Me"
         android:onClick="submitClick"/>
-
 </LinearLayout>
-
